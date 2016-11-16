@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Pasta Simulator</string>
+    <string name="pasta_type">pasta type</string>
+    <string name="pasta_weight">pasta weight</string>
+</resources>
